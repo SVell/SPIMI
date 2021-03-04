@@ -24,7 +24,7 @@ spimi::spimi(string path)
 
 	
 	read_files(path);
-
+	cout << "Pepega" << endl;
 	cout << "Start Merging" << endl;
 	writeMapToFile();
 
